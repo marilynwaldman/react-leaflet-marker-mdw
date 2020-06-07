@@ -1,4 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Following this video
+
+https://www.youtube.com/watch?v=PMtXhxW6t2k
+
 1.  npx create-react-app react-leaflet-marker-mdw
 2.  npm install
 3.  npm install leaflet
